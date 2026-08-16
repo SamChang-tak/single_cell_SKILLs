@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin spatial 11-19"
+  short_description: "Analyze SSc spatial neighborhoods and niches"
+  default_prompt: "Use $sscskin-spatial-4-11-19 to analyze SSc skin spatial neighborhoods, colocalization, niche composition, and patient-level niche differences."

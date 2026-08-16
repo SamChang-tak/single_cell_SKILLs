@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin spatial 20-27"
+  short_description: "Analyze SSc spatial niche functions and communication"
+  default_prompt: "Use $sscskin-spatial-4-20-27 to analyze spatial niche functions, molecular niches, CellChat communication, and decoupler activities in SSc skin."

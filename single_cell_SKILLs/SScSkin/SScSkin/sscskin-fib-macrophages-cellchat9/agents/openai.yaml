@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin fib-macrophages 9"
+  short_description: "Analyze fibroblast-macrophage CellChat networks"
+  default_prompt: "Use $sscskin-fib-macrophages-9 to reproduce, audit, or interpret fibroblast–macrophage CellChat communication in SSc skin."

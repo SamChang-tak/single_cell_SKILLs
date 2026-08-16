@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin spatial 01-10"
+  short_description: "Run SSc spatial workflow stages 01 through 10"
+  default_prompt: "Use $sscskin-spatial-4-1-10 to load, map, deconvolve, and visualize SSc skin spatial transcriptomics through stages 01–10."

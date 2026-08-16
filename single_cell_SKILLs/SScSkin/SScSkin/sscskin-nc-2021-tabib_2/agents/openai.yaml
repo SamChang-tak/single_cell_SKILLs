@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin nc_2021 Tabib"
+  short_description: "Reproduce the 2021 Tabib SSc skin workflow"
+  default_prompt: "Use $sscskin-nc-2021-tabib to process, cluster, annotate, and visualize the GSE138669 systemic-sclerosis skin single-cell dataset."

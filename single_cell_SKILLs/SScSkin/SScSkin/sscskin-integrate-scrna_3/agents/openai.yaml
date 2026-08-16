@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin integrate_scrna3"
+  short_description: "Integrate Gur 2022 and Tabib 2021 SSc skin data"
+  default_prompt: "Use $sscskin-integrate-scrna3 to integrate, batch-correct, validate, and visualize the Gur 2022 and Tabib 2021 SSc skin single-cell datasets."

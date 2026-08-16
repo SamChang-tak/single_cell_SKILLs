@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Mac-Endo CellChat 11"
+  short_description: "Analyze macrophage-endothelial CellChat networks"
+  default_prompt: "Use $sscskin-mac-endo-cellchat11 to reproduce, audit, or interpret macrophage–endothelial CellChat communication in SSc skin."

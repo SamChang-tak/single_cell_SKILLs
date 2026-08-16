@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin endothelium 6"
+  short_description: "Analyze SSc endothelial states and markers"
+  default_prompt: "Use $sscskin-endo-6 to reproduce, adapt, audit, or interpret the SSc skin endothelial-state workflow."

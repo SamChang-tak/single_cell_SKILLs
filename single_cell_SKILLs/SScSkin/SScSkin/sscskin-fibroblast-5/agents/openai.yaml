@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin fibroblast 5"
+  short_description: "Analyze SSc skin fibroblast states and spatial niches"
+  default_prompt: "Use $sscskin-fibroblast-5 to reproduce, adapt, audit, or interpret the SSc skin fibroblast and spatial-niche workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin spatial"
+  short_description: "Run and audit the SSc spatial transcriptomics workflow"
+  default_prompt: "Use $sscskin-spatial to process, deconvolve, map, and analyze systemic-sclerosis skin spatial transcriptomics data."

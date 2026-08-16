@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin macrophages 7"
+  short_description: "Analyze SSc macrophage states and spatial programs"
+  default_prompt: "Use $sscskin-macrophages-7 to reproduce, adapt, audit, or interpret the SSc skin macrophage and spatial-state workflow."

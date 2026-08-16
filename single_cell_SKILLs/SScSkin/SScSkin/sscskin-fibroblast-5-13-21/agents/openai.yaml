@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin fibroblast 13-21"
+  short_description: "Analyze late SSc fibroblast and niche programs"
+  default_prompt: "Use $sscskin-fibroblast-5-13-21 to reproduce, adapt, audit, or interpret stages 13 through 21 of the SSc skin fibroblast workflow."

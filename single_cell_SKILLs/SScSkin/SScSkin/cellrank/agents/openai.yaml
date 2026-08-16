@@ -1,0 +1,4 @@
+interface:
+  display_name: "CellRank"
+  short_description: "Analyze single-cell trajectories with CellRank"
+  default_prompt: "Use $cellrank to analyze cell-state transitions, fate probabilities, and lineage drivers in my AnnData object."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin fibroblast 01-12"
+  short_description: "Run early SSc fibroblast and spatial analyses"
+  default_prompt: "Use $sscskin-fibroblast-5-01-12 to reproduce, adapt, audit, or interpret stages 01 through 12 of the SSc skin fibroblast workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "SSc Skin cell_2022"
+  short_description: "Reproduce the 2022 SSc skin scRNA-seq workflow"
+  default_prompt: "Use $sscskin-cell-2022 to process and analyze the GSE195452 systemic-sclerosis skin single-cell dataset."
