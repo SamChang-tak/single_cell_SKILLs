@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV KNN scVI"
+  short_description: "Annotate cells with scVI and KNN"
+  default_prompt: "Use $popv-knn-scvi to configure scVI latent-space KNN annotation in popV."

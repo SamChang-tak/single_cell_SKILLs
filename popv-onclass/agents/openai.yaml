@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV OnClass"
+  short_description: "Run ontology-aware OnClass annotation"
+  default_prompt: "Use $popv-onclass to configure ontology-aware OnClass annotation in popV."

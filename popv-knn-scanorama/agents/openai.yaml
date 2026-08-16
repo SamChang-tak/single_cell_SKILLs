@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV KNN Scanorama"
+  short_description: "Annotate cells with Scanorama and KNN"
+  default_prompt: "Use $popv-knn-scanorama to configure Scanorama-based cell-type annotation in popV."

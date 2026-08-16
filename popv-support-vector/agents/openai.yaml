@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV Support Vector"
+  short_description: "Run linear SVM annotation through popV"
+  default_prompt: "Use $popv-support-vector to configure linear support-vector cell-type annotation in popV."

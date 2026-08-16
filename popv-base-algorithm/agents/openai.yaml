@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV Base Algorithm"
+  short_description: "Extend the popV algorithm interface safely"
+  default_prompt: "Use $popv-base-algorithm to implement or review a custom popV algorithm class."

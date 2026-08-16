@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV Algorithms"
+  short_description: "Run and coordinate popV annotation algorithms"
+  default_prompt: "Use $popv-algorithms to select and run popV cell-type annotation methods."

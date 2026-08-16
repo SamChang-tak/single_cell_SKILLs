@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV CellTypist"
+  short_description: "Run CellTypist annotation through popV"
+  default_prompt: "Use $popv-celltypist to configure CellTypist cell-type annotation in popV."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV Random Forest"
+  short_description: "Run random-forest annotation through popV"
+  default_prompt: "Use $popv-random-forest to configure random-forest cell-type annotation in popV."

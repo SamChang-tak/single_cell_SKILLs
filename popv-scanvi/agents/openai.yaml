@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV scANVI"
+  short_description: "Run scANVI label transfer through popV"
+  default_prompt: "Use $popv-scanvi to configure scANVI cell-type label transfer in popV."

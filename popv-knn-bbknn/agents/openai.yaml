@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV KNN BBKNN"
+  short_description: "Annotate cells with BBKNN and KNN"
+  default_prompt: "Use $popv-knn-bbknn to configure BBKNN-based cell-type annotation in popV."

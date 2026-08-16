@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV KNN Harmony"
+  short_description: "Annotate cells with Harmony and KNN"
+  default_prompt: "Use $popv-knn-harmony to configure Harmony-based cell-type annotation in popV."

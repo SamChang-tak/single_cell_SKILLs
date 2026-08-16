@@ -1,0 +1,4 @@
+interface:
+  display_name: "popV XGBoost"
+  short_description: "Run XGBoost annotation through popV"
+  default_prompt: "Use $popv-xgboost to configure XGBoost cell-type annotation in popV."
