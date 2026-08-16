@@ -1,0 +1,4 @@
+interface:
+  display_name: "scRNA-seq batch integration with sysVI"
+  short_description: "Integrate substantial scRNA-seq system effects"
+  default_prompt: "Use $scrna-batch-sysvi to integrate scRNA-seq datasets with substantial cross-system batch effects and evaluate biological preservation."

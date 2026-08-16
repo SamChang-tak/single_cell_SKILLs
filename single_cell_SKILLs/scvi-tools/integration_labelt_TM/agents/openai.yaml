@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tabula Muris label transfer"
+  short_description: "Integrate and transfer Tabula Muris labels"
+  default_prompt: "Use $integration-labelt-tm to integrate labeled reference and unlabeled query scRNA-seq data with scVI/scANVI and validate transferred labels."

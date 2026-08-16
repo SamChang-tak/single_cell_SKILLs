@@ -1,0 +1,4 @@
+interface:
+  display_name: "MrVI multi-sample analysis"
+  short_description: "Analyze multi-sample scRNA-seq with MrVI"
+  default_prompt: "Use $mrvi to model multi-sample scRNA-seq variation, local sample distances, and covariate-linked effects."

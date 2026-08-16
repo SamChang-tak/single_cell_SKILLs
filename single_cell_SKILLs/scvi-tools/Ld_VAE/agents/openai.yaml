@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linear decoded VAE"
+  short_description: "Interpret scRNA-seq latent factors with LDVAE"
+  default_prompt: "Use $ld-vae to fit a LinearSCVI model and interpret its latent factors and gene loadings."

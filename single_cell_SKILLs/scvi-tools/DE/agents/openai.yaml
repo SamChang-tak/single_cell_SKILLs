@@ -1,0 +1,4 @@
+interface:
+  display_name: "Single-Cell DE: Pseudobulk and scVI"
+  short_description: "Donor-aware edgeR, limma-voom, and scVI DE"
+  default_prompt: "Use $den to run donor-aware edgeR and limma-voom pseudobulk DE with scVI as a sensitivity analysis on my AnnData."

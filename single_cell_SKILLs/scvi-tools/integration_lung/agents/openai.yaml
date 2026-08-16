@@ -1,0 +1,4 @@
+interface:
+  display_name: "scvi-tools lung integration"
+  short_description: "Integrate lung scRNA-seq with scVI and scANVI"
+  default_prompt: "Use $integration-lung to integrate lung scRNA-seq batches with scVI or scANVI and evaluate biological conservation versus batch correction."

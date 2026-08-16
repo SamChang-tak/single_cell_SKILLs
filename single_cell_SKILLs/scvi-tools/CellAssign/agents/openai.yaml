@@ -1,0 +1,4 @@
+interface:
+  display_name: "CellAssign annotation"
+  short_description: "Annotate scRNA-seq from marker-gene matrices"
+  default_prompt: "Use $cellassign to annotate scRNA-seq cells probabilistically from a marker-gene matrix and validate assignment confidence."
